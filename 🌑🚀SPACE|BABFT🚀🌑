@@ -32,7 +32,7 @@ local Fluent = loadstring(game:HttpGet("https://twix.cyou/Fluent.txt", true))()
 local zf=''if xm then zf = " | DEBUG"end
 local Window = Fluent:CreateWindow({
 	Title = "🌑🚀SPACE|BABFT🚀🌑",
-	SubTitle = `BABFT{zf}`,
+	SubTitle = ``,
 	TabWidth = 30,
 	Size = UDim2.fromOffset(370, 280),
 	Acrylic = false,
