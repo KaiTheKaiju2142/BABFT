@@ -41,7 +41,8 @@ local Window = Fluent:CreateWindow({
 
 local Tabs = {
 	Main = Window:AddTab({ Title = "Main", Icon = "factory" }),
-	Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+	Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
+	Credits = Window:AddTab({ Title = "Credits", Icon = "person-standing"})
 }
 
 if xm then
